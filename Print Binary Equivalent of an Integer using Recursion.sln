@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print Binary Equivalent of an Integer using Recursion", "Print Binary Equivalent of an Integer using Recursion\Print Binary Equivalent of an Integer using Recursion.csproj", "{A2D08C7F-E643-4A97-85D7-1A10D78F2A93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2D08C7F-E643-4A97-85D7-1A10D78F2A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D08C7F-E643-4A97-85D7-1A10D78F2A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D08C7F-E643-4A97-85D7-1A10D78F2A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D08C7F-E643-4A97-85D7-1A10D78F2A93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5752F4F8-B6AB-4DF6-B068-D5E5743D2C1B}
+	EndGlobalSection
+EndGlobal
